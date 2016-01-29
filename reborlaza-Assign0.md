@@ -150,7 +150,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 38.25698
+## [1] 37.81148
 ```
 
 7 Graphics
@@ -168,7 +168,7 @@ points(t$c, pch=20, cex=4,
 ```
 
 ![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-1.png)
- Meaning of rgb is
+ Meaning of rgb is red green and blue, this is used for changing the colour of the graphs.
  
  The last arguments are.. 
 
@@ -374,7 +374,7 @@ http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html
 ####Embedded code
 
 
-The current time is Thu Jan 28 9:26:13 PM 2016.
+The current time is Thu Jan 28 10:05:33 PM 2016.
 
 
 ##### The end

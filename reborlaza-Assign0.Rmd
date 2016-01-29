@@ -108,7 +108,7 @@ lines (t$b, type="s", lwd=2,
 points(t$c, pch=20, cex=4, 
     col=rgb(0,0,1,0.3))
 ```
- Meaning of rgb is
+ Meaning of rgb is red green and blue, this is used for changing the colour of the graphs.
  
  The last arguments are.. 
 
